@@ -13,3 +13,6 @@ docker run --rm \
 # O sino
 docker run --rm -v $(pwd):/app -w /app composer install --ignore-platform-reqs
 ```
+
+### ¿Por dónde voy?
+- Hice hasta el capítulo 7 inclusive.
